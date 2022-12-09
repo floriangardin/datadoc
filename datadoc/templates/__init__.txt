@@ -1,0 +1,5 @@
+from .pipeline import create_pipeline
+
+__all__ = ["{{name}}"]
+
+__version__ = "0.1"

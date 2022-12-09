@@ -1,0 +1,15 @@
+*.idea
+.ipynb_checkpoints/
+*.ipynb
+*__pycache__*
+*.band
+*.band*
+*pytest_cache*
+.pytest_cache/
+venv/
+**.DS_Store
+notebooks/data
+data
+locals/
+*.pyc
+build/
